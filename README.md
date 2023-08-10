@@ -1,5 +1,6 @@
 # Telecom_Churn_Prediction
 The project is divided into two phases:
+
 A) EDA Phase
 2) Model Building Phase
 
